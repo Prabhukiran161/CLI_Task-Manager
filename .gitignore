@@ -1,0 +1,29 @@
+# Node.js dependencies
+node_modules/
+
+# Log files
+*.log
+
+# Environment variables file (If you have sensitive data like API keys)
+.env
+
+# npm package lock file (optional, but useful for project consistency)
+package-lock.json
+
+# Operating system files
+.DS_Store      # macOS
+Thumbs.db      # Windows
+
+# IDE/editor specific files
+.vscode/        # Visual Studio Code
+.idea/          # JetBrains IDEs
+*.swp           # Vim swap files
+
+# Generated directories
+data/
+
+# Optional: Ignore the build folder if you have one (for example, after bundling)
+dist/
+
+# Ignore test files if not needed
+test/
