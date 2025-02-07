@@ -38,10 +38,10 @@ node taskManager.js <command> <task_description>
 
 ### 🛠 Example Commands:
 ```bash
-node taskManager.js add "Finish coding project"  # Adds a new task
-node taskManager.js list                         # Lists all tasks
-node taskManager.js update 1 "Completed"        # Updates task 1
-node taskManager.js delete 2                     # Deletes task 2
+task add "Finish coding project"  # Adds a new task
+task list                         # Lists all tasks
+task update 1 "Completed"        # Updates task 1
+task delete 2                     # Deletes task 2
 ```
 
 ---
