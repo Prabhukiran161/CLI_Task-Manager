@@ -40,7 +40,7 @@ node taskManager.js <command> <task_description>
 ```bash
 task add "Finish coding project"  # Adds a new task
 task list                         # Lists all tasks
-task update 1 "Completed"        # Updates task 1
+task update 1 "Completed"         # Updates task 1
 task delete 2                     # Deletes task 2
 ```
 
