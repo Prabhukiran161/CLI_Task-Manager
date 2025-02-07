@@ -1,11 +1,17 @@
 {
   "name": "taskmanager",
   "version": "1.0.0",
+  "bin": {
+    "task": "./taskManager.js"
+  },
   "description": "",
   "type": "module",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "delete": "node taskManager.js delete",
+    "add": "node taskManager.js add",
+    "update": "node taskManager.js update",
+    "list": "node taskManager.js list"
   },
   "keywords": [],
   "author": "",
