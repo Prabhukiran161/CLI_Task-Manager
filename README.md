@@ -22,7 +22,7 @@
 
 ### 🔹 Clone the Repository:
 ```bash
-git clone https://github.com/your-username/task-manager.git
+git clone https://github.com/Prabhukiran161/CLI_Task-Manager.git
 cd task-manager
 ```
 
@@ -33,7 +33,7 @@ npm install
 
 ### 🔹 Run the App:
 ```bash
-node taskManager.js <command> <task_description>
+task <command> <task_description>
 ```
 
 ### 🛠 Example Commands:
