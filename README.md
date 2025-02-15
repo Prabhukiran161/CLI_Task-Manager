@@ -23,7 +23,7 @@
 ### 🔹 Clone the Repository:
 ```bash
 git clone https://github.com/Prabhukiran161/CLI_Task-Manager.git
-cd task-manager
+cd CLI_Task-Manager
 ```
 
 ### 🔹 Install Dependencies:
